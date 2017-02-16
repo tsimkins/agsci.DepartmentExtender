@@ -15,6 +15,7 @@ class _ExtensionLinesField(ExtensionField, LinesField): pass
 research_areas = [x.strip() for x in """
 Advanced Agricultural and Food Systems
 Biologically-Based Materials and Products
+Community Resilience and Capacity
 Environmental Resilience
 Global Engagement
 Integrated Health Solutions
